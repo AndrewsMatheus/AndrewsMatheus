@@ -20,7 +20,6 @@ Estou participando de bootcamps para conseguir a minha primeira vaga de emprego 
 
 Conceitos de Lógica, fundamentos de linguagens de programação, banco de dados, engenharia de software, e orientação a objetos.
 
-
 ## Quais as linguagens mais utilizadas por você?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsMatheus)](https://github.com/anuraghazra/github-readme-stats)
