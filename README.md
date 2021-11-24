@@ -5,7 +5,7 @@
 
 ## O que você está fazendo?
 
-Estou buscando melhorar minhas habilidades em programação web e organizando projetos pequenos para melhorar meu portifólio .
+Estou participando de bootcamps para conseguir a minha primeira vaga de emprego no mundo dev.
 
 ## Quais linguagens você aprendeu na faculdade?
 
@@ -19,6 +19,7 @@ Estou buscando melhorar minhas habilidades em programação web e organizando pr
 ### O que você aprendeu na faculdade até o momento?
 
 Conceitos de Lógica, fundamentos de linguagens de programação, banco de dados, engenharia de software, e orientação a objetos.
+
 
 ## Quais as linguagens mais utilizadas por você?
 
