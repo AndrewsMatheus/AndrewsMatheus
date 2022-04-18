@@ -1,5 +1,5 @@
 ## Andrews Matheus
- Sou um estudante de Ciência da Computação que está procurando sempre melhorar e aprender coisas novas. Eu acredito que um desenvolvedor não deve ter uma linguagem de estimação e sim ser versátil e ampliar seus conhecimentos para a necessidade atual.
+ Sou um estudante de Engenharia de computação que está procurando sempre melhorar e aprender coisas novas. Eu acredito que um desenvolvedor não deve ter uma linguagem de estimação e sim ser versátil e ampliar seus conhecimentos para a necessidade atual.
 ## Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrewsm.mariano@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrews-matheus-mariano-2a6709210/)
 
