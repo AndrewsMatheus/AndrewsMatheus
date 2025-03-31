@@ -40,7 +40,7 @@ Estou buscando oportunidades de estágio no mundo dev.
 
 <div style="display: inline-block">
   </br>
-[!Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+ <img align="center" alt="html5" src="[https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)">
 
 </div>
 
