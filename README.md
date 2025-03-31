@@ -34,7 +34,7 @@ Estou buscando oportunidades de estágio no mundo dev.
 
 ## Banco de Dados
 <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ## Cloud
 
@@ -42,6 +42,7 @@ Estou buscando oportunidades de estágio no mundo dev.
   </br>
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
 ## Quais as linguagens mais utilizadas por você?
