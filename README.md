@@ -48,6 +48,3 @@ Melhorar minha posição no mercado Dev.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
 
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewsMatheus&show_icons=true&theme=radical)
