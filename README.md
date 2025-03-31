@@ -36,6 +36,14 @@ Estou buscando oportunidades de estágio no mundo dev.
 <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+## Cloud
+
+<div style="display: inline-block">
+  </br>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
 ## Quais as linguagens mais utilizadas por você?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsMatheus)](https://github.com/anuraghazra/github-readme-stats)
