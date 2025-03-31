@@ -5,7 +5,7 @@
 
 ## O que você está fazendo?
 
-Estou buscando oportunidades de estágio no mundo dev.
+Melhorar minha posição no mercado Dev.
 
 ## Frameworks
 
