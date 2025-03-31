@@ -1,11 +1,8 @@
 ## Andrews Matheus
  Atualmente sou estudante de ciência da computação que busca sempre estar aprendendo algo novo e melhorando o que já aprendi.
+ 
 ## Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andrewsm.mariano@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrews-matheus-mariano-2a6709210/)
-
-## O que você está fazendo?
-
-Melhorar minha posição no mercado Dev.
 
 ## Frameworks
 
