@@ -47,3 +47,7 @@ Melhorar minha posição no mercado Dev.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewsMatheus&show_icons=true&theme=radical)
