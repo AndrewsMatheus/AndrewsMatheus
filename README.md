@@ -47,8 +47,3 @@ Melhorar minha posição no mercado Dev.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
-
-## Quais as linguagens mais utilizadas por você?
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsMatheus)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
