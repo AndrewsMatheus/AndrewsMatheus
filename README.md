@@ -35,8 +35,9 @@ Estou buscando oportunidades de estágio no mundo dev.
 </div>
 
 ## Banco de Dados
-<img align="center" alt="html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Cloud
 
