@@ -11,11 +11,10 @@ Estou buscando oportunidades de estágio no mundo dev.
 
 <div style="display: inline-block">
   </br>
-
-<img align="center" alt="html5" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+ 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 </div>
 
 ## Linguagens
