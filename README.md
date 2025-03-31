@@ -1,4 +1,4 @@
-## Andrews Matheus
+## Sobre mim
  Atualmente sou estudante de ciência da computação que busca sempre estar aprendendo algo novo e melhorando o que já aprendi.
  
 ## Contato
